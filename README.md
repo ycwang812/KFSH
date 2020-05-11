@@ -7,3 +7,5 @@
 Google Colaboratory - https://colab.research.google.com/notebooks/
 
 網路爬蟲實作 - https://hackmd.io/@ycwang812/HyvPYYBqI
+
+網路爬蟲實作(以新冠肺炎疫情資訊為例) - https://hackmd.io/@ycwang812/r1aSaGI58
